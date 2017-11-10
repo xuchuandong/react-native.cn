@@ -52,6 +52,8 @@ AppRegistry.registerComponent('AwesomeProject', () => FlatListBasics);
 ```
 
 If you want to render a set of data broken into logical sections, maybe with section headers, then a `SectionList` is the way to go.
+如果你想呈现一组逻辑分组的数据，或者显示分组页眉，那么可以使用 `SectionList`样式。
+// 此处应该是中文的，强迫症犯了
 
 ```ReactNativeWebPlayer
 import React, { Component } from 'react';
